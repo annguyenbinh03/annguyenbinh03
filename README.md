@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm An Nguyen</h1>
 <h3 align="center">A passionate backend developer from Vietnam.</h3>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=annguyenbinh03&label=Profile%20views&color=0e75b6&style=flat" alt="annguyenbinh03" /> </p>
 
 <p align="left"></p>
 
