@@ -5,7 +5,7 @@
 <p align="left"></p>
 
 - 🔭  ServiceNow Developer with hands-on experience in building and customizing applications that streamline workflows, enhance user experiences, and deliver measurable business value.
-- 🌱 Expanding expertise with **React, ASP.NET Web APIs, and ASP.NET MVC** to integrate ServiceNow seamlessly with enterprise systems.  
+- 🌱 Expanding expertise with **React, ASP.NET Web APIs, and ASP.NET MVC**
 - 👨‍💻 All of my projects are available at [Here](https://github.com/annguyenbinh03?tab=repositories)
 - 📫 How to reach me **phaolobinhan@gmail.com**
 
