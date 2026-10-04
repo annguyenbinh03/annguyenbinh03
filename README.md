@@ -1,13 +1,24 @@
 <h3 align="center" ><img height="350" src="https://media0.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif"/> </h3> 
 <h1 align="center">Hi 👋, I'm An Nguyen</h1>
-<h3 align="center">A passionate fullstack developer from Vietnam.</h3>
+<h3 align="center">A passionate ServiceNow Developer from Vietnam.</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=annguyenbinh03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="annguyenbinh03" />
 <p align="left"></p>
 
-- 🔭 I’m currently working on **DishHub, and LuckyMilkTea**
-- 🌱 I’m currently learning **React, ASP web APIs, and ASP MVC**
+- 🔭  ServiceNow Developer with hands-on experience in building and customizing applications that streamline workflows, enhance user experiences, and deliver measurable business value.
+- 🌱 Expanding expertise with **React, ASP.NET Web APIs, and ASP.NET MVC** to integrate ServiceNow seamlessly with enterprise systems.  
 - 👨‍💻 All of my projects are available at [Here](https://github.com/annguyenbinh03?tab=repositories)
 - 📫 How to reach me **phaolobinhan@gmail.com**
+
+### 🛠 Skills & Expertise
+- **ServiceNow App:** ITSM, ITOM(CIM), HRSD
+- **Customization & Integration:** Glide API, Business Rules, Client Scripts, REST APIs, Web Services, MID Server  
+- **Fullstack Development (side projects):** React.js, ASP.NET Web API, ASP.NET MVC
+
+### 📚 Certifications
+- ✅ ServiceNow Certified System Administrator  
+- ✅ ServiceNow Certified Application Developer (CAD)  
+- ✅ Certified Implementation Specialist – Human Resources (CIS HR)
+- ✅ Certified Implementation Specialist – Data Foundations (CIS DF)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
